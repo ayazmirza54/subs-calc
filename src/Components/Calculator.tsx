@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Calculator, Plus, Trash2, IndianRupee, Zap, Tv, Moon, Sun } from 'lucide-react';
 
 const SubscriptionCalculator = () => {
